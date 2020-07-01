@@ -1,0 +1,24 @@
+D:\sudah\tugas\tugas\bin\Debug\netcoreapp3.0\tugas.exe
+D:\sudah\tugas\tugas\bin\Debug\netcoreapp3.0\tugas.deps.json
+D:\sudah\tugas\tugas\bin\Debug\netcoreapp3.0\tugas.runtimeconfig.json
+D:\sudah\tugas\tugas\bin\Debug\netcoreapp3.0\tugas.runtimeconfig.dev.json
+D:\sudah\tugas\tugas\bin\Debug\netcoreapp3.0\tugas.dll
+D:\sudah\tugas\tugas\bin\Debug\netcoreapp3.0\tugas.pdb
+D:\sudah\tugas\tugas\obj\Debug\netcoreapp3.0\tugas.csprojAssemblyReference.cache
+D:\sudah\tugas\tugas\obj\Debug\netcoreapp3.0\tugas.AssemblyInfoInputs.cache
+D:\sudah\tugas\tugas\obj\Debug\netcoreapp3.0\tugas.AssemblyInfo.cs
+D:\sudah\tugas\tugas\obj\Debug\netcoreapp3.0\tugas.dll
+D:\sudah\tugas\tugas\obj\Debug\netcoreapp3.0\tugas.pdb
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\bin\Debug\netcoreapp3.0\tugas.exe
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\bin\Debug\netcoreapp3.0\tugas.deps.json
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\bin\Debug\netcoreapp3.0\tugas.runtimeconfig.json
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\bin\Debug\netcoreapp3.0\tugas.runtimeconfig.dev.json
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\bin\Debug\netcoreapp3.0\tugas.dll
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\bin\Debug\netcoreapp3.0\tugas.pdb
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\obj\Debug\netcoreapp3.0\tugas.csprojAssemblyReference.cache
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\obj\Debug\netcoreapp3.0\tugas.AssemblyInfoInputs.cache
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\obj\Debug\netcoreapp3.0\tugas.AssemblyInfo.cs
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\obj\Debug\netcoreapp3.0\tugas.csproj.CoreCompileInputs.cache
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\obj\Debug\netcoreapp3.0\tugas.dll
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\obj\Debug\netcoreapp3.0\tugas.pdb
+C:\Users\ACER-PREDATOR\Documents\19.11.2799\New folder\tugaslab9-master\tugas\obj\Debug\netcoreapp3.0\tugas.genruntimeconfig.cache
